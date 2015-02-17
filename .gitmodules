@@ -1,0 +1,3 @@
+[submodule "www/public"]
+	path = www/public
+	url = git@github.com:esonghori/esonghori.github.io.git
