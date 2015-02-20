@@ -1,0 +1,12 @@
+<article class="post">
+<header>
+<h2><a href="{{ .Permalink }}">{{ .Title }}</a> </h2>
+</header>
+<p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ .Date.Format  "2006-01-02" }}</small></p>
+<div class="summary">
+    {{ .Summary }}
+</div>
+<footer>
+<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+</footer>
+</article>
