@@ -6,7 +6,7 @@ title = "Publication"
 
 * <b>Ebrahim M. Songhori</b>, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, "TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits." <i>Security and Privacy, 2015 IEEE Symposium on</i> May, 2015.
 
-* <b>Ebrahim M. Songhori</b>, Siam U. Hussain, Ahmad-Reza Sadeghi and Farinaz Koushanfar, "A Compact and Scalable Privacy-Preserving k-Nearest Neighbor Search." <i>Proceedings of the 52nd Design Automation Conference (DAC)</i> May, 2015.
+* <b>Ebrahim M. Songhori</b>, Siam U. Hussain, Ahmad-Reza Sadeghi and Farinaz Koushanfar, "Compacting Privacy-Preserving k-Nearest Neighbor Search using Logic Synthesis." <i>Proceedings of the 52nd Design Automation Conference (DAC)</i> May, 2015.
 <!--more-->
 * <b>Ebrahim M. Songhori</b> ["ShuFFLE: Automated Framework for Hardware Accelerated Iterative Big Data Analysis."](/file/ms-thesis.pdf) Master Thesis, Rice University April, 2014.
 * <b>Ebrahim M. Songhori</b>, Azalia Mirhoseini, Xuyang Lu and Farinaz Koushanfar ["Ahead: Automated Framework For Hardware Accelerated Iterative Data Analysis."](/file/ahead.pdf) <i>Design, Automation and Test in Europe Conference and Exhibition (DATE)</i> March 11 2015.
