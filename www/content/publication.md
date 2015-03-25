@@ -5,7 +5,7 @@ title = "Publication"
 +++
 
 
-* <b>Ebrahim M. Songhori</b>, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, "TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits." <i>Security and Privacy, 2015 IEEE Symposium on</i> May, 2015.
+* <b>Ebrahim M. Songhori</b>, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, ["TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits."](/file/TinyGarble.pdf) <i>Security and Privacy, 2015 IEEE Symposium on</i> May, 2015.
 
 * Bita Darvish Rouhani, <b>Ebrahim M. Songhori</b>, Azalia Mirhoseini and Farinaz Koushanfar.​ "SSketch: An Automated Framework for Streaming Sketch-based Analysis of Big Data on FPGA." ​​<i>In Field-Programmable Custom Computing Machines (FCCM), 201​5 IEEE 2​3rd Annual International Symposium on</i>, IEEE, 201​5​.
 
