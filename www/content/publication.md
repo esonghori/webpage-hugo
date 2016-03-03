@@ -1,9 +1,12 @@
 +++
-date = "2015-03-03T18:40:48-06:00"
-title = "Publication"
+date = "2016-03-03T14:08:09-06:00"
+title = "Publications"
+weight = 2
 
 +++
 
+
+* <b>Ebrahim M. Songhori</b>, Shaza Zeitouni, Ghada Dessouky, Thomas Schneider, Ahmad-Reza Sadeghi and Farinaz Koushanfar, "GarbledCPU: A MIPS Processor for Secure Computation in Hardware." <i>Proceedings of the 53rd Design Automation Conference (DAC)</i> June, 2016.
 
 * <b>Ebrahim M. Songhori</b>, Siam U. Hussain, Ahmad-Reza Sadeghi, Thomas Schneider and Farinaz Koushanfar, ["TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits."](/file/TinyGarble.pdf) <i>Security and Privacy, 2015 IEEE Symposium on</i> May, 2015.
 
