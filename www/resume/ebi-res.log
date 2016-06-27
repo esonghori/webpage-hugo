@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.22)  3 MAR 2016 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.23)  27 JUN 2016 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -189,116 +189,80 @@ LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
+(Font)              <5> on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--50
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--64
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
+ []
+
+
+Overfull \hbox (1.58519pt too wide) in paragraph at lines 52--53
+[]\OT1/cmr/bx/n/10 Other tech-nolo-gies: \OT1/cmr/m/n/10 Git, Ama-zon EC2, Xil-
+inx ISE, Mod-el-Sim, Xil-inx Au-toESL, MAT-LAB, MapRe-
+ []
+
+
+Overfull \hbox (3.80446pt too wide) in paragraph at lines 63--64
+[]\OT1/cmr/bx/n/10 Songhori, Ebrahim M.\OT1/cmr/m/n/10 , Shaza Zeitouni, Ghada 
+Dessouky, Thomas Schnei-der, Ahmad-Reza Sadeghi,
+ []
+
+
+Overfull \hbox (11.58145pt too wide) in paragraph at lines 64--65
+[]\OT1/cmr/m/n/10 Mirhoseini, Aza-lia, Bita Darvish Rouhani, \OT1/cmr/bx/n/10 E
+brahim M. Songhori\OT1/cmr/m/n/10 , and Fari-naz Koushan-far. ``Perform-
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 66--73
+Overfull \hbox (3.56294pt too wide) in paragraph at lines 71--72
+[]\OT1/cmr/m/n/10 Mirhoseini, Aza-lia, \OT1/cmr/bx/n/10 Ebrahim M. Songhori\OT1
+/cmr/m/n/10 , Bita Darvish Rouhani, and Fari-naz Koushan-far.``Flexible
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Overfull \hbox (0.83159pt too wide) in paragraph at lines 83--94
-\OT1/cmr/m/n/10 Azalia Mirho-seini, Eva Dyer, \OT1/cmr/bx/n/10 Ebrahim Songhori
-\OT1/cmr/m/n/10 , Richard Bara-niuk, and Fari-naz Koushan-far. ``Rankmap:
- []
-
-
-Overfull \hbox (0.43526pt too wide) in paragraph at lines 83--94
-\OT1/cmr/m/n/10 A platform-aware frame-work for dis-tributed learn-ing from den
-se datasets.'' arXiv preprint arXiv:1503.08169
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--94
-
- []
-
-[2] [3]
+[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 94.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 4301 strings out of 493085
- 64378 string characters out of 6136916
+ 4317 strings out of 493085
+ 64664 string characters out of 6136916
  147674 words of memory out of 5000000
- 7814 multiletter control sequences out of 15000+600000
+ 7828 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,311b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,352b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on ebi-res.pdf (3 pages, 65620 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ebi-res.pdf (2 pages, 64703 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 37 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
