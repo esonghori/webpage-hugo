@@ -74,16 +74,16 @@
 			return ss;
 		}
 	  // load a file
-	  loadCSS( "{{ .Site.BaseUrl }}/css/bootstrap.min.css" );
-	  loadCSS( "{{ .Site.BaseUrl }}/css/hc.css" );
+	  loadCSS( "{{ .Site.BaseURL }}/css/bootstrap.min.css" );
+	  loadCSS( "{{ .Site.BaseURL }}/css/hc.css" );
 	  loadCSS( "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" );
 	</script>
 
 
   <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <noscript>
-  <link href="{{ .Site.BaseUrl }}/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ .Site.BaseUrl }}/css/hc.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/hc.css" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   </noscript>
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -109,7 +109,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-					{{ $baseUrl:= .Site.BaseUrl }}
+					{{ $baseUrl:= .Site.BaseURL }}
 					{{range $key, $element := .Site.Params.links}}
 					<li><a href="{{ $baseUrl}}{{ $element }}">{{title $key }} </a></li>
 					{{ end }}
@@ -124,7 +124,7 @@
        <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
 					<img src="{{ .Site.Params.ProfilePicture }}" />
-          <li class="sidebar-brand"><a href="{{ .Site.BaseUrl }}/"><h1 class="brand">{{ .Site.Title }}</h1></a><h3>{{ .Site.Params.Description }}</h3></li>
+          <li class="sidebar-brand"><a href="{{ .Site.BaseURL }}/"><h1 class="brand">{{ .Site.Title }}</h1></a><h3>{{ .Site.Params.Description }}</h3></li>
           <hr />
 					{{range $key, $element := .Site.Params.links}}
 						<li><a href="{{ $baseUrl }}{{ $element }}">{{title $key }} </a></li>

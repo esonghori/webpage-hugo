@@ -56,14 +56,14 @@
       return ss;
     }
     // load a file
-    loadCSS( "{{ .Site.BaseUrl }}/css/bootstrap.min.css" );
-    loadCSS( "{{ .Site.BaseUrl }}/css/hc.css" );
+    loadCSS( "{{ .Site.BaseURL }}/css/bootstrap.min.css" );
+    loadCSS( "{{ .Site.BaseURL }}/css/hc.css" );
     loadCSS( "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" );
   </script>
 
   <noscript>
-  <link href="{{ .Site.BaseUrl }}/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ .Site.BaseUrl }}/css/hc.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/hc.css" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   </noscript>
 
