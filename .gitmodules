@@ -1,3 +1,6 @@
 [submodule "www/public"]
 	path = www/public
 	url = git@github.com:esonghori/esonghori.github.io.git
+[submodule "www/themes/herring-cove/"]
+	path = www/themes/herring-cove
+	url = git@github.com:spf13/herring-cove.git
