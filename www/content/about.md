@@ -1,27 +1,24 @@
 +++
-date = "2015-09-25T14:44:28-05:00"
-title = "About me"
-weight = 3
+date = "2017-05-29T23:24:46-07:00"
+draft = false
+title = "Ebrahim Songhori"
+
 +++
 
-<span itemscope itemtype="http://data-vocabulary.org/Person"> 
-My name is <span itemprop="name">Ebrahim M. Songhori</span> (in Persian: ابراهیم سنقری). I'm a <span itemprop="title">PhD student</span> in <span itemprop="affiliation">ACES (Adaptive Computing and Embedded Systems) lab</span> at <span itemprop="affiliation">Rice University</span>.<!--more--> I’m advised by <span itemprop="contact">Prof. Farinaz Koushanfar</span>. I'm interested in Computer Architecture, Secure Multi-party Computation, Embedded System Design, FPGA and ASIC design, High Performance Computing and Big Data Analysis. I received M.Sc. from Rice University in 2014 and B.Sc. from the <span itemprop="affiliation">University of Tehran</span> in 2011.</span>
+<span itemscope itemtype="http://data-vocabulary.org/Person">
+My name is <span itemprop="name">Ebrahim M. Songhori</span> (in Persian: ابراهیم سنقری). I'm a <span itemprop="title">Software Engineer</span> at <span itemprop="affiliation">Google</span> Shopping, Mountain View, CA. I received my Ph.D in Computer Engineering from <span itemprop="affiliation">Rice University</span>.<!--more--> I was advised by <span itemprop="contact">Prof. Farinaz Koushanfar</span> (University of California, San Diego). I received my M.Sc. from Rice University in 2014 and B.Sc. from the <span itemprop="affiliation">University of Tehran</span> in 2011.</span>
 
 
 Email
 
--	ebrahim (at) rice.edu
-
-Office
-
--	Duncan Hall 2047
+-	esonghori (at) google.com
 
 Address
 
--	ECE – MS-366
+-	Google Inc
 
-	Rice University
+	1600 Amphitheatre Pkwy,
 
-	P.O. Box 1892
-	
-	Houston, TX 77005-1892
+	Attn:esonghori
+
+	Mountain View, CA 94043

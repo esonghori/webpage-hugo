@@ -97,16 +97,16 @@ p
 
 #wrapper
 {
-  padding-left:250px;
+  padding-left:300px;
   transition:all .5s ease 0
 }
 
-.navbar 
+.navbar
 {
   display: none;
 }
 
-.navbar a 
+.navbar a
 {
   text-decoration: none;
   border-bottom: 1px #b1b1b1 solid;
@@ -114,9 +114,9 @@ p
 
 #sidebar-wrapper
 {
-  margin-left:-250px;
-  left:250px;
-  width:250px;
+  margin-left:-300px;
+  left:300px;
+  width:300px;
   background:#f8f8f8;
   position:fixed;
   height:100%;
@@ -132,7 +132,7 @@ p
 {
   position:absolute;
   top:0;
-  width:250px;
+  width:300px;
   list-style:none;
   margin:0;
   padding:0 0 0
@@ -727,12 +727,12 @@ time
   }
 #wrapper.active {
   position: relative;
-  left: 250px;
+  left: 300px;
 }
 
 #wrapper.active #sidebar-wrapper {
-  left: 250px;
-  width: 250px;
+  left: 300px;
+  width: 300px;
   transition: all 0.7s ease 0s;
 }
 
@@ -740,7 +740,7 @@ time
 .inset {
   padding: 15px;
 }
-.navbar 
+.navbar
 {
   display: inherit;
   background-color: #ededed;
@@ -751,7 +751,7 @@ time
 
 @media screen and (max-width: 500px) {
   #welcome-greeting h2 {
-   font-size: 15px; 
+   font-size: 15px;
    transition: all 0.2s ease 0s;
    font-weight: 200;
    line-height: 30px;
